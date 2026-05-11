@@ -1,0 +1,1 @@
+Exercise 3.1(b)/(c)/(d) please check colab link.
